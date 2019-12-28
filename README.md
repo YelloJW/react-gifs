@@ -1,6 +1,6 @@
-# react-boilerplate
+# React app that returns a list of gifs from a text input
 
-Simple react starter with the following config:
+Built from simple react starter with the following config:
 
 - React, ReactDOM
 - Webpack 4
@@ -11,7 +11,7 @@ Simple react starter with the following config:
 
 ## Scripts
 
-To start the local Webpack Dev Server (usually on port `8080`):
+To start the local Webpack Dev Server (on port `8080`):
 
 ```bash
 yarn start
